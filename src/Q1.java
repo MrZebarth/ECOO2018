@@ -21,6 +21,6 @@ public class Q1 {
 			System.out.println(count);
 		}
 		in.close();
-		//THIS IS A CHANGE
+		
 	}
 }
